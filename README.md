@@ -11,8 +11,7 @@ Random motion is a simulator of an object moving in random directions. Simulator
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/magnusoy/Arduino-with-Python/blob/master/LICENSE) file for details
-
+This project is licensed under the MIT License
 
 ## Libraries
 
