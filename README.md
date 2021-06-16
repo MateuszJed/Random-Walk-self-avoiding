@@ -6,7 +6,7 @@ Random motion is a simulator of an object moving in random directions. Simulator
 
 ## Author
 
-* **Mateusz Jedynak** - [MateuszJedynak](https://github.com/Mati2446)
+* **Mateusz Jedynak** - [MateuszJedynak](https://github.com/MateuszJed)
 
 
 ## License
